@@ -17,10 +17,8 @@ Recommended Texts:
 F&B = Feigelson & Babu. "Modern Statistical Methods for Astronomy"  
 Ivezić = Ivezić, Connolly, VanderPlas & Gray. "Statistics, Data Mining, and Machine Learning in Astronomy"
 
-**Lecture 01 - 18 Jan 2018**
-
+**Lecture 01 - 18 Jan 2018**  
 Introduction to the Course - slides posted
 
-**Lecture 02 - 21 Jan 2018**
-
+**Lecture 02 - 21 Jan 2018**  
 Introdution to Astronomical Data & Case Studies - slides posted
