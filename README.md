@@ -23,5 +23,5 @@ Introduction to the Course - slides posted
 **Lecture 02 - 21 Jan 2018**  
 Introdution to Astronomical Data & Case Studies - slides posted
 
-**Lecture 03 - 23 Jan 2018**
+**Lecture 03 - 23 Jan 2018**  
 Covered probability foundations - F&B Ch 2 (thru 2.5), Ivezić Ch 3 (thru 3.1.3)
