@@ -26,11 +26,11 @@ Introdution to Astronomical Data & Case Studies - slides posted
 **Lecture 03 - 23 Jan 2018**  
 Covered probability foundations - F&B Ch 2 (thru 2.5), Ivezić Ch 3 (thru 3.1.3)
 
-**Lecture 04 - 25 Jan 2018**
+**Lecture 04 - 25 Jan 2018**  
 Probability foundations - Bayes Theorem, properties of random variables 
 
-**Lecture 05 - 28 Jan 2018** 
-Multivariate rvs, transformation of rvs, propagation of error, limit theorems  
+**Lecture 05 - 28 Jan 2018**  
+Multivariate rvs, transformation of rvs, propagation of error, limit theorems,  
 statistical inference
 
 
