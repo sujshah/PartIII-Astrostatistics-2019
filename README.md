@@ -38,6 +38,6 @@ statistical inference - F&B Ch 3, Ivezić Ch 4
 **Lecture 06 - 30 Jan 2019**  
 Continue: frequentist properties of estimators, maximum likelihood
 
-**Lecture 07 - 01 Feb 2019
+**Lecture 07 - 01 Feb 2019**
 
 
