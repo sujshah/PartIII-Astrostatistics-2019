@@ -31,6 +31,9 @@ Probability foundations - Bayes Theorem, properties of random variables
 
 **Lecture 05 - 28 Jan 2018**  
 Multivariate rvs, transformation of rvs, propagation of error, limit theorems,  
-statistical inference
+statistical inference - F&B Ch 3, Ivezić Ch 4
+
+**Lecture 06 - 30 Jan 2018**  
+continue...
 
 
