@@ -12,10 +12,12 @@ Statistical Laboratory
 CMS Pavilion D, Office 1.07  
 
 Recommended Texts:  
-(Both texts are freely available as downloadable electronic PDFs through the Cambridge University Library iDiscover website.)
+(F&B and Ivezić are freely available as downloadable electronic PDFs through the Cambridge University Library iDiscover website.)
 
 F&B = Feigelson & Babu. "Modern Statistical Methods for Astronomy"  
-Ivezić = Ivezić, Connolly, VanderPlas & Gray. "Statistics, Data Mining, and Machine Learning in Astronomy"
+Ivezić = Ivezić, Connolly, VanderPlas & Gray. "Statistics, Data Mining, and Machine Learning in Astronomy"  
+MacKay = David MacKay. "Information Theory, Inference, and Learning Algorithms"  
+(Free text: http://www.inference.org.uk/itila/book.html)  
 
 **Lecture 01 - 18 Jan 2018** - slides posted  
 Introduction to the Course
