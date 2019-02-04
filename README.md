@@ -39,8 +39,8 @@ statistical inference - F&B Ch 3, Ivezić Ch 4
 Continue: frequentist properties of estimators, maximum likelihood
 
 **Lecture 07 - 01 Feb 2019** - slides posted  
-Properties of maximum likelihood, Fisher Information, Cramer-Rao  
-Estimating the absolute magnitude distribution of supernovae with  
+* Properties of maximum likelihood, Fisher Information, Cramer-Rao  
+* Estimating the absolute magnitude distribution of supernovae with  
 heteroskedastic measurement error  
 
 **Lecture 08 - 04 Feb 2019**  
