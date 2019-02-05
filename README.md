@@ -7,7 +7,7 @@ Monday, Wednesday & Friday at 12 noon. CMS **Meeting Room 13**.
 
 First Class: Friday 18 Jan 2019
 
-Office Hours: Tuesdays @ 1:30pm (TBC)  
+Office Hours: Tuesdays @ 1:30pm or by appointment 
 Statistical Laboratory  
 CMS Pavilion D, Office 1.07  
 
