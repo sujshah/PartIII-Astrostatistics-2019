@@ -42,7 +42,7 @@ Continue: frequentist properties of estimators, maximum likelihood
 * Properties of maximum likelihood, Fisher Information, Cramer-Rao  
 * Estimating the absolute magnitude distribution of supernovae with measurement error  
 
-**Lecture 08 - 04 Feb 2019**  
+**Lecture 08 - 04 Feb 2019** - slides posted  
 * Calibrating the absolute magnitude distribution of supernovae with heteroskedastic measurement error 
 * Fitting a power law with observational selection effects
 * Quantifying uncertainty: interpetation of frequentist confidence intervals
