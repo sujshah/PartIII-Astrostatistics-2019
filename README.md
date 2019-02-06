@@ -48,7 +48,8 @@ Continue: frequentist properties of estimators, maximum likelihood
 * Quantifying uncertainty: interpetation of frequentist confidence intervals
 
 **Lecture 09 - 06 Feb 2019**
-* Quantifying uncertainty with bootstrap (power law with selection effect example  
+* Quantifying uncertainty with bootstrap
+* Example: estimating a Pareto distribution with selection effects  
 * Regression  
 
 **Week 4** - Bayesian Inference in Astrophysics  
