@@ -47,3 +47,6 @@ Continue: frequentist properties of estimators, maximum likelihood
 * Fitting a power law with observational selection effects
 * Quantifying uncertainty: interpetation of frequentist confidence intervals
 
+**Lecture 09 - 06 Feb 2019**
+* Quantifying uncertainty with bootstrap (power law with selection effect example  
+* Regression  
