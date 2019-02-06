@@ -50,3 +50,13 @@ Continue: frequentist properties of estimators, maximum likelihood
 **Lecture 09 - 06 Feb 2019**
 * Quantifying uncertainty with bootstrap (power law with selection effect example  
 * Regression  
+
+**Week 4** - Bayesian Inference in Astrophysics  
+
+**Week 5** - Statistical Computation  
+
+**Week 6** - Gaussian Processes and Time Series Analysis  
+
+**Week 7** - Hierarchical Bayesian Models
+
+**Week 8** -  
