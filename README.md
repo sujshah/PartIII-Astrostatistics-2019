@@ -52,7 +52,13 @@ Continue: frequentist properties of estimators, maximum likelihood
 * Example: estimating a Pareto distribution with selection effects  
 * Regression  
 
-**Week 4** - Bayesian Inference in Astrophysics  
+**Week 4** - Bayesian Inference in Astrophysics
+**Lecture 10 - 08 Feb 2019**
+* Review standard regression
+* Probabilistic Forward Modelling with latent variables
+* Regression with heteroskedastic (x,y)-errors and intrinsic dispersion
+* Bayesian Modelling and Inference
+* Example: Estimating Distances from Parallax (Bailer-Jones paper) 
 
 **Week 5** - Statistical Computation  
 
