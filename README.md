@@ -63,10 +63,8 @@ Continue: frequentist properties of estimators, maximum likelihood
 **Lecture 11 - 11 Feb 2019**  
 * More Bayesian Inference: Gaussian with unknown mean and variance  
 * Sufficient statistics, Likelihood principle  
-* Conjugate Priors
-* Large Sample Limits, Asymptotic Normality
-* Monte Carlo sampling, Direct simulation
-* Inverse CDF method  
+* Conjugate Priors, Large Sample Limits, Asymptotic Normality  
+* Monte Carlo sampling, Direct simulation, Inverse CDF method  
 
 **Week 5** - Statistical Computation  
 
