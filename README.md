@@ -72,4 +72,4 @@ Continue: frequentist properties of estimators, maximum likelihood
 
 **Week 7** - Hierarchical Bayesian Models
 
-**Week 8** -  
+**Week 8** - More Advanced Topics  
