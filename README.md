@@ -60,14 +60,20 @@ Continue: frequentist properties of estimators, maximum likelihood
 * Review standard regression
 * Probabilistic Forward Modelling with latent variables
 * Regression with heteroskedastic (x,y)-errors and intrinsic dispersion
+* Kelly et al. "Some Aspects of Measurement Error in Linear Regression of Astronomical Data"
 * Bayesian Modelling and Inference
-* Example: Estimating Distances from Parallax (Bailer-Jones paper) 
+* Example: Bailer Jones et al. "Estimating Distances from Parallax"
 
 **Lecture 11 - 11 Feb 2019**  
 * More Bayesian Inference: Gaussian with unknown mean and variance  
 * Sufficient statistics, Likelihood principle  
 * Conjugate Priors, Large Sample Limits, Asymptotic Normality  
 * Monte Carlo sampling, Direct simulation, Inverse CDF method  
+
+**Lecture 12 - 13 Feb 2019**
+* Continue Monte Carlo Sampling  
+* Importance Sampling and Self-Normalised Importance Weights  
+* Application: Patel et al. 2017, 2018 - Weighing the Milky Way Galaxy  
 
 **Week 5** - Statistical Computation  
 
