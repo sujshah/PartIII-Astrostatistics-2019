@@ -85,7 +85,7 @@ Continue: frequentist properties of estimators, maximum likelihood
 * Cholesky decomposition for multivariate Gaussian random variables  
 
 **Lecture 15 - 18 Feb 2019**
-* Mult-dimensional Metropolis  
+* Multi-dimensional Metropolis  
 * Metropolis-Hastings  
 * Gibbs Sampling
 * MCMC in practice, diagnosing convergence  
