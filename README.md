@@ -42,7 +42,7 @@ statistical inference - F&B Ch 3, Ivezić Ch 4
 **Lecture 06 - 30 Jan 2019** - slides posted  
 Continue: frequentist properties of estimators, maximum likelihood
 
-**Week 3**
+**Week 3**  
 **Lecture 07 - 01 Feb 2019** - slides posted  
 * Properties of maximum likelihood, Fisher Information, Cramer-Rao  
 * Estimating the absolute magnitude distribution of supernovae with measurement error  
