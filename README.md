@@ -72,12 +72,17 @@ Continue: frequentist properties of estimators, maximum likelihood
 * Conjugate Priors, Large Sample Limits, Asymptotic Normality  
 * Monte Carlo sampling, Direct simulation, Inverse CDF method  
 
-**Lecture 12 - 13 Feb 2019**
+**Lecture 12 - 13 Feb 2019**  
 * Continue Monte Carlo Sampling  
 * Importance Sampling and Self-Normalised Importance Weights  
 * Application: Patel et al. 2017, 2018 - Weighing the Milky Way Galaxy  
 
 **Week 5** - Statistical Computation  
+**Lecture 14 - 15 Feb 2019**  
+* Review Importance Weighing the Milky Way Galaxy  
+* Begin Markov Chain Monte Carlo  
+* demonstration of Metropolis algorithm on Parallax Example  
+* Cholesky decomposition for multivariate Gaussian random variables  
 
 **Week 6** - Gaussian Processes and Astronomical Time Series Analysis  
 
