@@ -84,6 +84,16 @@ Continue: frequentist properties of estimators, maximum likelihood
 * demonstration of Metropolis algorithm on Parallax Example  
 * Cholesky decomposition for multivariate Gaussian random variables  
 
+**Lecture 15 - 18 Feb 2019**
+* Mult-dimensional Metropolis  
+* Metropolis-Hastings  
+* Gibbs Sampling
+* MCMC in practice, diagnosing convergence  
+
+**Lecture 16 - 20 Feb 2019**  
+* theoretical properties of MCMC  
+* more advanced MCMC  
+
 **Week 6** - Gaussian Processes and Astronomical Time Series Analysis  
 
 **Week 7** - Hierarchical Bayesian Models in Astrophysics
