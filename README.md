@@ -91,7 +91,7 @@ Continue: frequentist properties of estimators, maximum likelihood
 * MCMC in practice, diagnosing convergence  
 
 **Lecture 16 - 20 Feb 2019**  
-* theoretical properties of MCMC  
+* sketch of MCMC theory    
 * more advanced MCMC  
 
 **Week 6** - Gaussian Processes and Astronomical Time Series Analysis  
