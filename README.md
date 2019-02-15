@@ -21,6 +21,7 @@ Recommended Texts:
 * Ivezić = Ivezić, Connolly, VanderPlas & Gray. "Statistics, Data Mining, and Machine Learning in Astronomy"  
 * MacKay = David MacKay. "Information Theory, Inference, and Learning Algorithms"  
 (Free text: http://www.inference.org.uk/itila/book.html)  
+* Givens & Hoeting. "Computational Statistics" (Free through Cambridge Library iDiscover)  
 
 **Lecture 01 - 18 Jan 2019** - slides posted  
 Introduction to the Course
