@@ -42,6 +42,7 @@ statistical inference - F&B Ch 3, Ivezić Ch 4
 **Lecture 06 - 30 Jan 2019** - slides posted  
 Continue: frequentist properties of estimators, maximum likelihood
 
+**Week 3**
 **Lecture 07 - 01 Feb 2019** - slides posted  
 * Properties of maximum likelihood, Fisher Information, Cramer-Rao  
 * Estimating the absolute magnitude distribution of supernovae with measurement error  
@@ -56,7 +57,7 @@ Continue: frequentist properties of estimators, maximum likelihood
 * Example: estimating a Pareto distribution with selection effects  
 * Regression  
 
-**Week 4** - Bayesian Inference in Astrophysics  
+**Week 4** - Statistical Modelling & Bayesian Inference in Astrophysics  
 **Lecture 10 - 08 Feb 2019**
 * Review standard regression
 * Probabilistic Forward Modelling with latent variables
@@ -78,8 +79,8 @@ Continue: frequentist properties of estimators, maximum likelihood
 
 **Week 5** - Statistical Computation  
 
-**Week 6** - Gaussian Processes and Time Series Analysis  
+**Week 6** - Gaussian Processes and Astronomical Time Series Analysis  
 
-**Week 7** - Hierarchical Bayesian Models
+**Week 7** - Hierarchical Bayesian Models in Astrophysics
 
-**Week 8** - More Advanced Topics  
+**Week 8** - More Advanced Topics in Astrostatistics
