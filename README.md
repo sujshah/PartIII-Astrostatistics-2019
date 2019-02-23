@@ -86,11 +86,19 @@ Continue: frequentist properties of estimators, maximum likelihood
 
 **Lecture 15 - 18 Feb 2019**
 * Multi-dimensional Metropolis  
+* Supernova cosmology example
+ 
+**Lecture 16 - 20 Feb 2019**  
+* Application of Multi-dimension Metropolis to infer cosmic acceleration from supernova data
+* Gelman-Rubin ratio, diagnosing convergence  
+
+**Lecture 17 - 22 Feb 2019**  
 * Metropolis-Hastings  
 * Gibbs Sampling
-* MCMC in practice, diagnosing convergence  
+* Metropolis-within-Gibbs
+* Application to dark energy inference from supernova data  
 
-**Lecture 16 - 20 Feb 2019**  
+**Lecture 18 - 25 Feb 2019**  
 * sketch of MCMC theory    
 * more advanced MCMC  
 
