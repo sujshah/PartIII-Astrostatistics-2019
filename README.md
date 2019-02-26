@@ -101,6 +101,7 @@ Continue: frequentist properties of estimators, maximum likelihood
 
 **Lecture 17 - 25 Feb 2019**  
 * Comparison of MCMC algorithms
+* Tuning the d-dim Metropolis proposal covariance matrix  
 * Autocorrelation timescale and Effective Sample Size
 * Gibbs Sampling as Metropolis-Hastings
 * Mix-and-Match algorithms
