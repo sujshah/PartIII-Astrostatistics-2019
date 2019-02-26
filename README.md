@@ -78,32 +78,37 @@ Continue: frequentist properties of estimators, maximum likelihood
 * Application: Patel et al. 2017, 2018 - Weighing the Milky Way Galaxy  
 
 **Week 5** - Statistical Computation  
-**Lecture 14 - 15 Feb 2019**  
+**Lecture 13 - 15 Feb 2019**  
 * Review Importance Weighing the Milky Way Galaxy  
 * Begin Markov Chain Monte Carlo  
 * demonstration of Metropolis algorithm on Parallax Example  
 * Cholesky decomposition for multivariate Gaussian random variables  
 
-**Lecture 15 - 18 Feb 2019**
+**Lecture 14 - 18 Feb 2019**
 * Multi-dimensional Metropolis  
 * Supernova cosmology example
  
-**Lecture 16 - 20 Feb 2019**  
+**Lecture 15 - 20 Feb 2019**  
 * Application of Multi-dimension Metropolis to infer cosmic acceleration from supernova data
 * Gelman-Rubin ratio, diagnosing convergence  
 
-**Lecture 17 - 22 Feb 2019**  
+**Week 6** - More Markov Chain Monte Carlo  
+**Lecture 16 - 22 Feb 2019**  
 * Metropolis-Hastings  
 * Gibbs Sampling
 * Metropolis-within-Gibbs
 * Application to dark energy inference from supernova data  
 
-**Lecture 18 - 25 Feb 2019**  
-* sketch of MCMC theory    
-* more advanced MCMC  
+**Lecture 17 - 25 Feb 2019**  
+* Comparison of MCMC algorithms
+* Autocorrelation timescale and Effective Sample Size
+* Gibbs Sampling as Metropolis-Hastings
+* Mix-and-Match algorithms
+* sketch of MCMC theory  
 
-**Week 6** - Gaussian Processes and Astronomical Time Series Analysis  
+**Lecture 18 - 27 Feb 2019**  
+* continue sketch of MCMC theory  
 
-**Week 7** - Hierarchical Bayesian Models in Astrophysics
+**Week 7** - Gaussian Processes and Astronomical Time Series Analysis  
 
-**Week 8** - More Advanced Topics in Astrostatistics
+**Week 8** - Hierarchical Bayesian Models & More Advanced Topics in Astrostatistics  
