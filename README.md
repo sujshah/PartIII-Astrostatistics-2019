@@ -108,8 +108,11 @@ Continue: frequentist properties of estimators, maximum likelihood
 * sketch of MCMC theory  
 
 **Lecture 18 - 27 Feb 2019**  
+* Remarks on Mixed Gibbs/Metropolis/Metropolised-Gibbs algorithms and Parameter Blocking  
 * continue sketch of MCMC theory  
 
 **Week 7** - Gaussian Processes and Astronomical Time Series Analysis  
+**Lecture 19 - 01 March 2019**
+* Gaussian Processes  
 
 **Week 8** - Hierarchical Bayesian Models & More Advanced Topics in Astrostatistics  
