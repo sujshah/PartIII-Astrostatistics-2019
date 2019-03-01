@@ -113,6 +113,7 @@ Continue: frequentist properties of estimators, maximum likelihood
 
 **Week 7** - Gaussian Processes and Astronomical Time Series Analysis  
 **Lecture 19 - 01 March 2019**
+* Practical Tips on MCMC  
 * Gaussian Processes  
 
 **Week 8** - Hierarchical Bayesian Models & More Advanced Topics in Astrostatistics  
