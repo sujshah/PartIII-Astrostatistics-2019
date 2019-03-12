@@ -117,4 +117,23 @@ Continue: frequentist properties of estimators, maximum likelihood
 * Intro to Gaussian Processes  
 * Gravitationally lensed supernova / quasar examples
 
-**Week 8** - Hierarchical Bayesian Models & More Advanced Topics in Astrostatistics  
+**Lecture on 04 March 2019 was cancelled due to illness**  
+
+**Lecture 20 - 06 March 2019**  
+* Continue Gaussian Processes
+* Accounting for measurement error, optimising hyperparameters  
+* Application to lensed supernova example  
+
+**Lecture 21 - 08 March 2019**  
+* Gaussian Processes - covariance functions  
+* Begin hierarchical Bayes and probabilistic graphical models  
+
+**Week 8** - Hierarchical Bayesian Models & More Advanced Topics in Astrostatistics 
+
+**Lecture 22 - 11 March 2019**  
+* Continue Probabilistic Graphical Models, conditional independence  
+* Hierarchical Bayes and Gibbs Sampling  
+
+**Lecture 23 - 13 March 2019**  
+
+**Lecture 24 - 14 March 2019**  
