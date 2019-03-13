@@ -127,7 +127,7 @@ Continue: frequentist properties of estimators, maximum likelihood
 
 **Lecture 21 - 08 March 2019**  
 * Gaussian Processes - covariance functions  
-* Begin hierarchical Bayes and probabilistic graphical models  
+* Begin Hierarchical Bayes and probabilistic graphical models  
 
 **Week 8** - Hierarchical Bayesian Models & More Advanced Topics in Astrostatistics 
 
@@ -136,5 +136,6 @@ Continue: frequentist properties of estimators, maximum likelihood
 * Hierarchical Bayes and Gibbs Sampling  
 
 **Lecture 23 - 13 March 2019**  
+* Hierarchical Bayes and Shrinkage Estimators  
 
 **Lecture 24 - 14 March 2019**  
