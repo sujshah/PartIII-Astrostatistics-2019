@@ -3,7 +3,8 @@ Homepage for Astrostatistics Course, Lent Term 2019
 Part III Mathematics / Part III Astrophysics
 
 **Announcements:**  
-**Example Sheet 2 Posted: Example class on Tue, 5 Mar at 12pm in MR9**  
+**Make Up Lecture on Thursday, 14 Mar at 11am MR 13**  
+**Example Class 3 on Friday, 15 Mar at 1pm in MR 12**   
 
 Lent Term
 Monday, Wednesday & Friday at 12 noon. CMS **Meeting Room 13**.
