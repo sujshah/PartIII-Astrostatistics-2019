@@ -23,6 +23,8 @@ Recommended Texts:
 * MacKay = David MacKay. "Information Theory, Inference, and Learning Algorithms"  
 (Free text: http://www.inference.org.uk/itila/book.html)  
 * Givens & Hoeting. "Computational Statistics" (Free through Cambridge Library iDiscover)  
+* Bishop, "Pattern Recognition and Machine Learning"  
+(Free text: https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)  
 
 **Lecture 01 - 18 Jan 2019** - slides posted  
 Introduction to the Course
