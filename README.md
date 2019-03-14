@@ -139,3 +139,5 @@ Continue: frequentist properties of estimators, maximum likelihood
 * Hierarchical Bayes and Shrinkage Estimators  
 
 **Lecture 24 - Thu, 14 March 2019, 11am MR 13**  
+* Finish Hierarchical Bayesian Shrinkage  
+* Bayesian Model Comparison  
