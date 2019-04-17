@@ -3,7 +3,8 @@ Homepage for Astrostatistics Course, Lent Term 2019
 Part III Mathematics / Part III Astrophysics
 
 **Announcements:**  
-**Example Sheet 2 Posted: Example class on Tue, 5 Mar at 12pm in MR9**  
+**Make Up Lecture on Thursday, 14 Mar at 11am MR 13**  
+**Example Class 3 on Friday, 15 Mar at 1pm in MR 12**   
 
 Lent Term
 Monday, Wednesday & Friday at 12 noon. CMS **Meeting Room 13**.
@@ -22,6 +23,8 @@ Recommended Texts:
 * MacKay = David MacKay. "Information Theory, Inference, and Learning Algorithms"  
 (Free text: http://www.inference.org.uk/itila/book.html)  
 * Givens & Hoeting. "Computational Statistics" (Free through Cambridge Library iDiscover)  
+* Bishop, "Pattern Recognition and Machine Learning"  
+(Free text: https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)  
 
 **Lecture 01 - 18 Jan 2019** - slides posted  
 Introduction to the Course
@@ -117,4 +120,26 @@ Continue: frequentist properties of estimators, maximum likelihood
 * Intro to Gaussian Processes  
 * Gravitationally lensed supernova / quasar examples
 
-**Week 8** - Hierarchical Bayesian Models & More Advanced Topics in Astrostatistics  
+**Lecture on 04 March 2019 was cancelled due to illness**  
+
+**Lecture 20 - 06 March 2019**  
+* Continue Gaussian Processes
+* Accounting for measurement error, optimising hyperparameters  
+* Application to lensed supernova example  
+
+**Lecture 21 - 08 March 2019**  
+* Gaussian Processes - covariance functions  
+* Begin Hierarchical Bayes and probabilistic graphical models  
+
+**Week 8** - Hierarchical Bayesian Models & More Advanced Topics in Astrostatistics 
+
+**Lecture 22 - 11 March 2019**  
+* Continue Probabilistic Graphical Models, conditional independence  
+* Hierarchical Bayes and Gibbs Sampling  
+
+**Lecture 23 - 13 March 2019**  
+* Hierarchical Bayes and Shrinkage Estimators  
+
+**Lecture 24 - Thu, 14 March 2019, 11am MR 13**  
+* Finish Hierarchical Bayesian Shrinkage  
+* Bayesian Model Comparison  
